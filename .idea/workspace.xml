@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77a0c37c-84d2-438f-84b6-b090ec80461f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ajax/ajax.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/pay/ali-pay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/pay/wechat-pay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/qrcode_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/weixin/weixin-QR-code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/wukong-favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-advanced/css-advanced.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-background/css-background.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-box/css-box.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-float-position/css-float-position.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-intro/css-intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-selector/css-selector.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/dom.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-form/html-form.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-intro/html-intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-tags/html-tags.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210326195546672.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210327114846181.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210327120349939.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210327120601120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210327120647477.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210327120910398.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210328095456234.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210328101407152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210328101449976.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210328101526963.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210328101601174.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210328101623714.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210328101810726.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210328102254279.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210328182156198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210328182612538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210328182622836.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210328182740861.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210415215357263.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-grammar/js-grammar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/multimedia.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1wQPoJ8Mj1gX89Go2NUiBWNkE5V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77a0c37c-84d2-438f-84b6-b090ec80461f" name="Default Changelist" comment="" />
+      <created>1628388015914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628388015914</updated>
+      <workItem from="1628388019359" duration="2474000" />
+      <workItem from="1628407853242" duration="2721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
