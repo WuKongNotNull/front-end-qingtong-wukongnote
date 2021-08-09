@@ -10,16 +10,11 @@
 
 
 
-## div 标记
-
-<div>标记是一个块容器标记。
+<img src="../images/view01-1568881449160.jpg" alt="img" style="zoom:50%;" />
 
 
-可以将网页分割为独立的部分，以实现网页的规划和布局。
 
-大多数HTML标记都可以嵌套在<div>标记中，<div>中还可以嵌套多层<div>。
 
-可以替代大多数的块级文本标记。
 
 
 
@@ -31,7 +26,7 @@
 
 
 
-![image-20210327114846181](../images/image-20210327114846181.png)
+<img src="../images/image-20210327114846181.png" alt="image-20210327114846181" style="zoom:50%;" />
 
 
 
@@ -76,7 +71,6 @@ box-sizing: content-box/border-box;
 content-box：浏览器对盒模型的解释遵从W3C 标准，当定义width和height时，它的参数值不包括border和padding。
 
 border-box：当定义width和height时，border和padding的参数值被包含在width和height之内。
-
 
 
 

@@ -2,46 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77a0c37c-84d2-438f-84b6-b090ec80461f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ajax/ajax.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/pay/ali-pay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/pay/wechat-pay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/qrcode_focus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/weixin/weixin-QR-code.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/wukong-favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-advanced/css-advanced.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-background/css-background.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-box/css-box.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-float-position/css-float-position.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-intro/css-intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-selector/css-selector.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/dom.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-form/html-form.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-intro/html-intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-tags/html-tags.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210326195546672.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210327114846181.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210327120349939.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210327120601120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210327120647477.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210327120910398.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210328095456234.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210328101407152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210328101449976.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210328101526963.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210328101601174.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210328101623714.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210328101810726.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210328102254279.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210328182156198.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210328182612538.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210328182622836.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210328182740861.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image-20210415215357263.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js-grammar/js-grammar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multimedia/multimedia.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/project.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book.json" beforeDir="false" afterPath="$PROJECT_DIR$/book.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css-background/css-background.md" beforeDir="false" afterPath="$PROJECT_DIR$/css-background/css-background.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css-box/css-box.md" beforeDir="false" afterPath="$PROJECT_DIR$/css-box/css-box.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css-float-position/css-float-position.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css-intro/css-intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/css-intro/css-intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/dom.md" beforeDir="false" afterPath="$PROJECT_DIR$/dom/dom.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-intro/html-intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/html-intro/html-intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-tags/html-tags.md" beforeDir="false" afterPath="$PROJECT_DIR$/html-tags/html-tags.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-grammar/js-grammar.md" beforeDir="false" afterPath="$PROJECT_DIR$/js-grammar/js-grammar.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/_book/html-form/html-form.html&#10;/Users/mac/Desktop/project/front-end-qingtong-wukongnote/_book/css-advanced/css-advanced.html" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -91,7 +63,9 @@
       <option name="presentableId" value="Default" />
       <updated>1628388015914</updated>
       <workItem from="1628388019359" duration="2474000" />
-      <workItem from="1628407853242" duration="2721000" />
+      <workItem from="1628407853242" duration="3537000" />
+      <workItem from="1628468349657" duration="846000" />
+      <workItem from="1628496387580" duration="2141000" />
     </task>
     <servers />
   </component>
